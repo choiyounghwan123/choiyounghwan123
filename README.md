@@ -2,7 +2,7 @@
 <br>
 
 ## 👋 Hello, there!
-Hi, I'm Younghwan! I'm currently pursuing my studies at **Pusan National University**, majoring in **Data Science** under the **Department of Biomedical Engineering**. My passion lies in backend development, and I'm on a journey to become a skilled backend developer. 
+Hi, I'm Younghwan! I'm currently pursuing my studies at **Pusan National University**, majoring in **Data Science** under the **Department of Biomedical Engineering**. My passion lies in backend development, and I'm on a journey to become a skilled backend developer.
 
 I enjoy exploring various technologies and constantly seek to improve my skills in developing robust and scalable backend systems.
 
@@ -40,6 +40,7 @@ I enjoy exploring various technologies and constantly seek to improve my skills 
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
 ### 🛠 개발 도구
