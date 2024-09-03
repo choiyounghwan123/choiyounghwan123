@@ -74,4 +74,4 @@ I enjoy exploring various technologies and constantly seek to improve my skills 
 </div>
 
 ## 🌟 주요 프로젝트
-- **[Project Name 1](https://github.com/choiyounghwan123/study-link)**: PROJECTBUSAN(동아리) - 백엔드 
+- **[PROJECTBUSAN](https://github.com/choiyounghwan123/study-link)**: PROJECTBUSAN(동아리) - 백엔드 
