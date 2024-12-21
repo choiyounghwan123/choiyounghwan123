@@ -74,7 +74,7 @@ I enjoy exploring various technologies and constantly seek to improve my skills 
 </div>
 
 ## 🌟 주요 프로젝트
-- [PROJECTBUSAN](https://github.com/choiyounghwan123/study-link): PROJECTBUSAN(동아리) - 백엔드
+- [PROJECTBUSAN](https://github.com/choiyounghwan123/study-link): PROJECTBUSAN(동아리) - 백엔드
 - 부산대학교 의생명융합공학부 코딩 대회 - 장려상
 - 2024 postech x oibc challenge - 참가상
 
