@@ -17,7 +17,7 @@ A student interested in development, automation, and infrastructure.
 ## 💼 Experience
 | Company/Organization | Role | Period | Description |
 |----------------------|------|---------|-------------|
-| ANSI Information Technology | Field Training | 2025.08 ~ Present | Intern |
+| ANSI Information Technology | Field Training | 2025.08 ~ 2025.08 | Intern |
 | GambaLabs | Intern | 2024.10 ~ 2024.12 | LLM-based text data labeling automation |
 | PROJECT BUSAN | Club Member | 2024.07 ~ 2024.12 | 4-person web development team, Docker containerization |
 
