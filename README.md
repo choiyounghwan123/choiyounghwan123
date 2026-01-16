@@ -17,7 +17,7 @@ A student interested in development, automation, and infrastructure.
 ## 💼 Experience
 | Company/Organization | Role | Period | Description |
 |----------------------|------|---------|-------------|
-| Smartm2m | AI Service Team | 2025.11 ~ 2026.01 | Staff |
+| Smartm2m | Staff | 2025.11 ~ 2026.01 | AI Service Team |
 | ANSI Information Technology | Intern | 2025.08 ~ 2025.08 | Intern |
 | GambaLabs | Intern | 2024.10 ~ 2024.12 | LLM-based text data labeling automation |
 | PROJECT BUSAN | Club Member | 2024.07 ~ 2024.12 | 4-person web development team, Docker containerization |
