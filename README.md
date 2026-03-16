@@ -1,26 +1,27 @@
 # 👋 Hello, I'm Younghwan!
 
-A student interested in development, automation, and infrastructure.
+A Software Engineer interested in development, automation, and infrastructure.
 
 ## 🎓 Education
 | Institution | Major | Period | Status |
 |-------------|-------|---------|---------|
-| Pusan National University | Data Science | Mar 2024 - Feb 2026| Graduated |
-| Gyeongsang National University | Computer Software Engineering | Mar 2022 - Feb 2024 | Completed 4 Semesters (Transferred) |
-
-## 🏆 Awards & Achievements
-| Award | Organization | Achievement | Date |
-|-------|--------------|-------------|------|
-| POSTECH X OIBC Challenge | POSTECH | Participation Award (17th/200+ teams) | 2024.11 |
-| PNU Coding Competition | Pusan National University | Encouragement Award (3rd place) | 2024.12 |
+| Pusan National University | Data Science | Mar 2024 - Feb 2026 | Graduated |
+| Gyeongsang National University | Computer Software Engineering | Mar 2022 - Feb 2024 | Transferred to PNU |
 
 ## 💼 Experience
 | Company/Organization | Role | Period | Description |
 |----------------------|------|---------|-------------|
-| Smartm2m | Staff | 2025.11 ~ 2026.01 | AI Service Team |
-| ANSI Information Technology | Intern | 2025.08 ~ 2025.08 | Intern |
-| GambaLabs | Intern | 2024.10 ~ 2024.12 | LLM-based text data labeling automation |
-| PROJECT BUSAN | Club Member | 2024.07 ~ 2024.12 | 4-person web development team, Docker containerization |
+| Seegene Medical Foundation | Software Engineer | Mar 2026 - Present | IT Development Team |
+| Smartm2m | AI Service Team Member | Nov 2025 - Jan 2026 | AI Service Team |
+| ANSI Information Technology | Intern | Aug 2025 - Aug 2025 | Intern |
+| GambaLabs | Intern | Oct 2024 - Dec 2024 | LLM-based text data labeling automation |
+| PROJECT BUSAN | Web Developer | Jul 2024 - Dec 2024 | 4-person web development team, Docker containerization |
+
+## 🏆 Awards & Achievements
+| Award | Organization | Achievement | Date |
+|-------|--------------|-------------|------|
+| POSTECH X OIBC Challenge | POSTECH | Participation Award (17th/200+ teams) | Nov 2024 |
+| PNU Coding Competition | Pusan National University | Encouragement Award (3rd place) | Dec 2024 |
 
 ## 🚀 Featured Projects
 | Project | Description |
@@ -32,10 +33,10 @@ A student interested in development, automation, and infrastructure.
 ## 🎓 Certifications & Training
 | Certification/Training | Score/Level | Date |
 |------------------------|-------------|------|
-| TOEIC | 805 points | 2023.08 |
+| OPIC | Intermediate High | Jul 2025 |
+| Engineer Information Processing | Pass | Jun 2025 |
 | 2024 PNU Mini Bootcamp | Completed | 2024 |
-| Engineer Information Processing | Pass | 2025.06 |
-| OPIC | Intermediate High | 2025.07 |
+| TOEIC | 805 points | Aug 2023 |
 
 ## 📫 Contact
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fdgdfgdgf123@icloud.com)
+[![Mail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:fdgdfgdgf123@icloud.com)
